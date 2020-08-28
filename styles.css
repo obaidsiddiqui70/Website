@@ -84,7 +84,7 @@ p {
 .bottomCloud {
   position: absolute;
   left: 7.75rem;
-  bottom: 13.375rem;
+  top: 10rem;
 }
 
 .pic {
