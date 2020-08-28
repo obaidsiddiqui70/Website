@@ -1,12 +1,12 @@
 body {
-  margin: 0px;
+  margin: 0rem;
   text-align: center;
   font-family: "Merriweather", serif;
   background-color: #f7e7bd;
 }
 
 h1 {
-  margin: 50px auto 0 auto;
+  margin: 3.125rem auto 0rem auto;
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
   color: #065446;
@@ -34,24 +34,24 @@ p {
   text-decoration: underline;
 }
 .footer-link{
-  height:70px;
-  width:70px;
-  margin:30px;
+  height:4.375rem;
+  width:4.375rem;
+  margin:1.875rem;
 }
 .topContainer {
   background-color: #FADCAC;
   position: relative;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 6.25rem;
+  padding-bottom: 6.25rem;
 }
 
 .middle-container {
-  margin: 100px 0;
+  margin: 6.25rem 0;
 }
 
 .bottom-container {
   background-color: #065446;
-  padding: 50px 0 20px;
+  padding: 3.125rem 0 1.25rem;
 }
 
 .intro {
@@ -60,54 +60,54 @@ p {
 }
 .copyright{
   color: #FADCAC;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
 }
 .topCloud {
   position: absolute;
-  right: 300px;
-  top: 30px;
+  right: 18.75rem;
+  top: 1.875rem;
 }
 
 .topCloud2 {
   position: absolute;
-  right: 100px;
-  top: 150px;
+  right: 6.25rem;
+  top: 9.375rem;
 }
 
 .bottomCloud2 {
   position: absolute;
-  left: 100px;
-  top: 35px;
+  left: 6.25rem;
+  top: 2.1875rem;
 }
 
 .bottomCloud {
   position: absolute;
-  left: 300px;
-  bottom: 150px;
+  left: 18.75rem;
+  bottom: 9.375rem;
 }
 
 .pic {
-  height: 150px;
-  width: 150px;
-  border-radius: 500px;
-  margin-top: 10px;
-  margin-right: 20px;
+  height: 9.375rem;
+  width: 9.375rem;
+  border-radius: 31.25rem;
+  margin-top: 0.625rem;
+  margin-right: 1.25rem;
   float: left;
 }
 
 .pic3 {
-  height: 150px;
-  width: 150px;
-  border-radius: 500px;
-  margin-top: 10px;
+  height: 9.375rem;
+  width: 9.375rem;
+  border-radius: 31.25rem;
+  margin-top: 0.625rem;
 }
 
 .pic2 {
-  height: 150px;
-  width: 150px;
-  margin-top: 10px;
-  margin-right: 20px;
+  height: 9.375rem;
+  width: 9.375rem;
+  margin-top: 0.625rem;
+  margin-right: 1.25rem;
   float: left;
 }
 
@@ -116,55 +116,55 @@ hr {
   border-style: none;
   border-top-style: dotted;
   border-color: #158467;
-  border-width: 5px;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  border-width: 0.3125rem;
+  margin-top: 6.25rem;
+  margin-bottom: 6.25rem;
 }
 
 .skill-row {
-  margin: 100px auto 100px auto;
+  margin: 6.25rem auto 6.25rem auto;
   width: 50%;
   text-align: left;
 }
 
 .contact {
   width: 40%;
-  margin: 40px auto 60px;
+  margin: 2.5rem auto 3.75rem;
 }
 
 .hobby-row {
-  margin: 100px auto 100px auto;
+  margin: 6.25rem auto 6.25rem auto;
   width: 50%;
   text-align: left;
 }
 
 .btn {
   background-color: #900c3f;
-  -webkit-border-top-left-radius: 4px;
-  -moz-border-radius-topleft: 4px;
-  border-top-left-radius: 4px;
-  -webkit-border-top-right-radius: 4px;
-  -moz-border-radius-topright: 4px;
-  border-top-right-radius: 4px;
-  -webkit-border-bottom-right-radius: 4px;
-  -moz-border-radius-bottomright: 4px;
-  border-bottom-right-radius: 4px;
-  -webkit-border-bottom-left-radius: 4px;
-  -moz-border-radius-bottomleft: 4px;
-  border-bottom-left-radius: 4px;
+  -webkit-border-top-left-radius: 0.25rem;
+  -moz-border-radius-topleft: 0.25rem;
+  border-top-left-radius: 0.25rem;
+  -webkit-border-top-right-radius: 0.25rem;
+  -moz-border-radius-topright: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  -webkit-border-bottom-right-radius: 0.25rem;
+  -moz-border-radius-bottomright: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+  -webkit-border-bottom-left-radius: 0.25rem;
+  -moz-border-radius-bottomleft: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
   text-indent: 0;
   display: inline-block;
   color: #f7e7bd;
   font-family: Montserrat;
-  font-size: 17px;
+  font-size: 1.0625rem;
   font-weight: bold;
   font-style: normal;
-  height: 50px;
-  line-height: 50px;
-  width: 140px;
+  height: 3.125rem;
+  line-height: 3.125rem;
+  width: 8.75rem;
   text-decoration: none;
   text-align: center;
-  text-shadow: 0px 2px 10px #000000;
+  text-shadow: 0 0.125rem 0.625rem #000000;
 }
 
 .btn:hover {
@@ -173,5 +173,5 @@ hr {
 
 .btn:active {
   position: relative;
-  top: 1px;
+  top: 0.0625rem;
 }
