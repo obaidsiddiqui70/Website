@@ -67,28 +67,24 @@ p {
   position: absolute;
   right: 18.75rem;
   top: 1.875rem;
-  width:10%;
 }
 
 .topCloud2 {
   position: absolute;
   right: 6.25rem;
   top: 9.375rem;
-  width:10%;
 }
 
 .bottomCloud2 {
   position: absolute;
   left: 6.25rem;
   top: 2.1875rem;
-  width:10%;
 }
 
 .bottomCloud {
   position: absolute;
   left: 18.75rem;
   bottom: 9.375rem;
-  width:10%;
 }
 
 .pic {
